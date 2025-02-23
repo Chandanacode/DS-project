@@ -1,2 +1,2 @@
-# DS-project
+# datascience-project
 new repo
